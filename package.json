@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-microservice-aws-ecs",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/brajeshjaishwal/nodejs-microservice-aws-ecs.git",
+  "author": "brajesh jaishwal",
+  "license": "MIT",
+  "dependencies": {
+    "cluster": "^0.7.7",
+    "express": "^4.16.4",
+    "http": "^0.0.0"
+  }
+}
